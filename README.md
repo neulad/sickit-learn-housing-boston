@@ -1,2 +1,25 @@
-# Filtered-and-sorted-data-based-on-the-cost-of-housing-in-Boston
-This program takes values and looks at how much the price of housing in Boston depends on these same values. Building graphs at the same time. More information: https://www.kaggle.com/c/boston-housing
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+*This project was created for fun for learning purposes, never use it on production, it's raw and not tested at all!*
+
+This was my first communication with scikit-learn. I hope you will find it interesting!
+
+### Prerequisites
+
+Please install python3 and git according to your system.
+```sh
+pacman -S git python3
+```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://gitlab.com/ai183/price-of-housing-in-boston.git
+   ```
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Just follow the steps in .ipynb
