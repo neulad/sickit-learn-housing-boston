@@ -16,7 +16,7 @@ pacman -S git python3
 
 1. Clone the repo
    ```sh
-   git clone https://gitlab.com/ai183/price-of-housing-in-boston.git
+   git clone git@github.com:neulad/sickit-learn-housing-boston.git
    ```
 
 <!-- USAGE EXAMPLES -->
